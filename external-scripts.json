@@ -11,5 +11,6 @@
   "hubot-shipit",
   "hubot-youtube",
   "hubot-caniuse",
-  "hubot-ascii-faces"
+  "hubot-ascii-faces",
+  "hubot-pagespeed"
 ]
