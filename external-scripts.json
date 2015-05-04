@@ -12,5 +12,6 @@
   "hubot-youtube",
   "hubot-caniuse",
   "hubot-ascii-faces",
-  "hubot-pagespeed"
+  "hubot-pagespeed",
+  "hubot-spotify-search"
 ]
