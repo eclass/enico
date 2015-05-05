@@ -13,5 +13,8 @@
   "hubot-caniuse",
   "hubot-ascii-faces",
   "hubot-pagespeed",
-  "hubot-spotify-search"
+  "hubot-spotify-search",
+  "hubot-weather",
+  "hubot-insanedomains",
+  "hubot-voting"
 ]
