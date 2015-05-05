@@ -16,5 +16,9 @@
   "hubot-spotify-search",
   "hubot-weather",
   "hubot-insanedomains",
-  "hubot-voting"
+  "hubot-voting",
+  "hubot-calculator",
+  "hubot-cron",
+  "hubot-gglurl",
+  "hubot-qr-generator"
 ]
