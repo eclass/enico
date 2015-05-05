@@ -21,5 +21,6 @@
   "hubot-cron",
   "hubot-gglurl",
   "hubot-qr-generator",
-  "hubot-domainr"
+  "hubot-domainr",
+  "hubot-google-translate"
 ]
