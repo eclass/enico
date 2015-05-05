@@ -20,5 +20,6 @@
   "hubot-calculator",
   "hubot-cron",
   "hubot-gglurl",
-  "hubot-qr-generator"
+  "hubot-qr-generator",
+  "hubot-domainr"
 ]
