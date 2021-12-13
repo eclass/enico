@@ -22,7 +22,7 @@
     "hubot-pagespeed": "0.0.5",
     "hubot-pugme": "^0.1.0",
     "hubot-qr-generator": "0.0.2",
-    "hubot-redis-brain": "0.0.2",
+    "hubot-redis-brain": "0.0.4",
     "hubot-rules": "^0.1.0",
     "hubot-scripts": "^2.5.16",
     "hubot-shipit": "^0.2.0",
