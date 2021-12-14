@@ -10,7 +10,7 @@
     "hubot-calculator": "^0.4.0",
     "hubot-caniuse": "^1.0.3",
     "hubot-cron": "^0.2.9",
-    "hubot-diagnostics": "0.0.1",
+    "hubot-diagnostics": "1.0.0",
     "hubot-domainr": "^1.0.2",
     "hubot-gglurl": "0.0.3",
     "hubot-google-images": "^0.1.4",
