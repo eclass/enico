@@ -15,7 +15,7 @@
     "hubot-gglurl": "0.0.3",
     "hubot-google-images": "^0.1.4",
     "hubot-google-translate": "^0.1.0",
-    "hubot-help": "^0.1.1",
+    "hubot-help": "^1.0.0",
     "hubot-heroku-keepalive": "0.0.4",
     "hubot-insanedomains": "0.0.2",
     "hubot-maps": "0.0.2",
